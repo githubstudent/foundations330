@@ -1,2 +1,3 @@
 # amotani
-github.com/amotani
+http://github.com/amotani
+`test`
