@@ -1,2 +1,2 @@
-#Dan Machak
+#dmachak
 http://github.com/dmachak
